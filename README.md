@@ -1,5 +1,5 @@
 # Computer game industry analysis
-This is the first integrated project of the Practicum DA/DS course, combining Data Preprocessing, EDA and SDA.
+This is the first integrated project of the Practicum DA/DS course, combining Data Preprocessing, EDA and SDA sprints.
 
 ## Description
 Here we have a small dataset of various data on video games collected from open sources. We want to identify patterns that determine whether a game succeeds or not. They would allow us to spot potential big winners and plan advertising campaigns.
